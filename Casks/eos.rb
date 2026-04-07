@@ -1,8 +1,8 @@
 cask "eos" do
-  version "1.8.42"
-  sha256 "757bce047cadcdb8beb5aa12b4b5bd387ca26a7e7579b3616e001648d6cbf5a4"
+  version "1.8.43"
+  sha256 "f051d8bcc52d842f52de9a101f81930d9ae8909cd9044d111981c3c58ac30710"
 
-  url "https://api.github.com/repos/d-artemenko/eos/releases/assets/390853796",
+  url "https://api.github.com/repos/d-artemenko/eos/releases/assets/390863679",
       verified: "api.github.com/repos/d-artemenko/eos/releases/assets/",
       header: [
         "Accept: application/octet-stream",
